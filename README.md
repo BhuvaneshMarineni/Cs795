@@ -20,18 +20,22 @@ Below are some of the research papers we have cited.
 
 ## 1.Design of An Electronic Narrator on Assistant Robot for Blind People 
 https://www.matec-conferences.org/articles/matecconf/pdf/2016/05/matecconf_iccma2016_03013.pdf
+
 The paper presents the development of an electronic narrator for assisting visually impaired individuals by converting printed text into speech using a Raspberry Pi, a webcam for image capture, and integrated OCR and TTS libraries. Testing showed improved text recognition with better lighting and preprocessing adjustments. While effective in controlled conditions, the system requires further development for automatic adaptability and broader practical use. The study highlights the potential of such technology to make printed materials more accessible to the visually impaired.
 
 ## 2.Understanding the Usages, Lifecycle, and Opportunities of Screen Readers’ Plugins
 https://dl.acm.org/doi/full/10.1145/3582697
+
 The article explores the usage, development, and challenges associated with screen reader plugins, which are small code pieces enhancing screen reader capabilities for blind users. Through interviews with 14 blind users and analysis of 2,000 online posts, the study uncovers various reasons why users rely on plugins, such as improving usability and accessing partially accessible applications. It highlights the ease of installation, but challenges in finding and uninstalling plugins, often leading to security risks. The technical complexity of plugin development limits their availability, and most plugins become obsolete due to lack of updates and financial incentives. The study emphasizes the importance of community collaboration among blind users, online forums, and developers in plugin creation, suggesting the need for a centralized repository and raising awareness about plugin benefits and risks. The findings propose embracing a community-driven approach to combat accessibility issues and foster collaboration between blind users and developers in the field of Human-Computer Interaction (HCI).
 
 ## 3.Screen Reader Voices: Effects of Pauses and Voice Changes on Comprehension
 https://journals.sagepub.com/doi/epdf/10.1177/1071181322661291
+
 The paper "Screen Reader Voices: Effects of Pauses and Voice Changes on Comprehension" by Cecelia A. Henderson and Yingchen He explores how modifications in text-to-speech (TTS) delivery, specifically pauses and voice pitch changes, impact the comprehension and retention of information among both sighted and visually impaired listeners. Through experiments with audio recordings of passages, the study examines whether such alterations can improve the recognition of structure and key details in spoken text. Preliminary results suggest potential benefits of adding pauses, but conclusive evidence requires more data. This research contributes to the ongoing discussion on optimizing TTS technology for educational and assistive purposes, highlighting the need for further investigation into auditory information processing and learning strategies.
 
 ## 4.Python Programming Education with Semantics-oriented Screen Reading for K-12 Students with Vision Impairments
 https://dl.acm.org/doi/pdf/10.1145/3626253.3635494
+
 The paper introduces JupyterVox, a semantics-oriented screen reader designed to improve Python programming education for K-12 students with vision impairments. It addresses the limitations of conventional screen readers in interpreting programming code, which often misrepresent or complicate the understanding of code syntax and semantics. By leveraging compiler techniques for lexical and syntax analyses, JupyterVox interprets and vocalizes Python code based on its meaning, facilitating better comprehension and navigation through code. Initial evaluations suggest JupyterVox significantly enhances the accuracy of understanding programming statements, indicating its potential to boost independent coding skills among visually impaired students.
 
 ## Proposed Approach:
