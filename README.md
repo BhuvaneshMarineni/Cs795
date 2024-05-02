@@ -1,5 +1,4 @@
 # Cs795
-CS795
 ## Personalized Screen Reader Speed Adjustments & Insights
 
 ## Team Members:
