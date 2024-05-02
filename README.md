@@ -6,7 +6,7 @@ CS795
 1) Bhuvanesh Marineni
 2) Siva Naga Durga Janakala
 3) Harshit Koncherla
-4) Deeven Kumar Menda
+4) Deevan Kumar Menda
    
 ## Project Statement:
 The primary objective of this project is to develop a personalized screen reader speed adjustment system that can adapt to individual user preferences and provide insights into their reading behavior and log this data for continuous improvement. The primary objective of this project is to develop a personalized screen reader speed adjustment system tailored to individual user preferences. This system aims to enhance the reading experience for users with visual impairments by dynamically adapting the reading speed based on user interactions and collecting data on reading behavior.
@@ -46,7 +46,20 @@ The data set is generated from the data logged from the screen reader. The link 
 
 https://drive.google.com/file/d/1shU5l0txL9kqvOpZj3SnUq6G9W9qvQdQ/view?usp=sharing
 
+The dataset has the below columns
 
+# Start Time and End Time: 
+
+These columns record the times at which users begin and end reading or interacting with content. The times are given in a format that likely represents hours, minutes, seconds, and frames (hh:mm:ss:ff).
+
+# Content Type: 
+
+This column categorizes the nature of the content each user is interacting with, such as journals, movies, magazines, newspapers, research papers, and e-commerce.
+
+# User ID: 
+This column identifies the user who is interacting with the content, which can be useful for analyzing user-specific behavior or preferences.
+# Text Read:
+This column contains a brief snippet or description of the content being read or interacted with. This could provide context or highlights of the content, summarizing its essence or purpose.
 ## Automatic Speed Adjustment
 # Adjustment.py
 
