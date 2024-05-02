@@ -109,6 +109,7 @@ The project has enhanced the adaptability and personalization of screen readers 
 
 these predictions and broaden the model's applicability.
 
+The link for the powerpoint presentation is https://docs.google.com/presentation/d/149L19qInbGDSKMthwMlZBePyIzAqw0tApfjBCz5ZoJ0/edit?usp=sharing
 # References:
 
 *1.Design of An Electronic Narrator on Assistant Robot for Blind People*
