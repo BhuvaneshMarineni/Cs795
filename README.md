@@ -49,13 +49,21 @@ https://drive.google.com/file/d/1shU5l0txL9kqvOpZj3SnUq6G9W9qvQdQ/view?usp=shari
 The dataset has the below columns
 
 *Start Time and End Time:*
+
 These columns record the times at which users begin and end reading or interacting with content. The times are given in a format that likely represents hours, minutes, seconds, and frames (hh:mm:ss:ff).
- *Content Type:*
+
+*Content Type:*
+
 This column categorizes the nature of the content each user is interacting with, such as journals, movies, magazines, newspapers, research papers, and e-commerce.
+
 *User ID:*
+
 This column identifies the user who is interacting with the content, which can be useful for analyzing user-specific behavior or preferences.
- *Text Read:*
+
+*Text Read:*
+
 This column contains a brief snippet or description of the content being read or interacted with. This could provide context or highlights of the content, summarizing its essence or purpose.
+
 ## Automatic Speed Adjustment
 # Adjustment.py
 
