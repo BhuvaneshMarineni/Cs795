@@ -15,9 +15,15 @@ The primary objective of this project is to develop a personalized screen reader
 ## Implementation:
 # Logger.py
 The Logger.py file is responsible for logging the screen reader data and print that in the console.
+
 Steps for using Logger.py:
+
 Step 1: Download Logger.py from GitHub, Go to Hidden icons in the taskbar and right click on the NVDA symbol. Select preferences → settings.
+
 Step 2:  Now select Advanced, Click on checkbox “I understand that changing these settings may cause NVDA to function incorrectly” and click on checkbox “Enable loading custom code from Developer Scratchpad” and select open developer scratchpad directory.
+
 Step 3: Upload the logger file in global plugins.
+
 Step 4 : After uploading select tools → Reload plugins.
+
 Step 5 : To view the logs, select tools → view log
