@@ -40,6 +40,13 @@ Step 4 : After uploading select tools → Reload plugins.
 
 Step 5 : To view the logs, select tools → view log
 
+## DataSet
+
+The data set is generated from the data logged from the screen reader. The link for the dataset is given here.
+
+https://drive.google.com/file/d/1shU5l0txL9kqvOpZj3SnUq6G9W9qvQdQ/view?usp=sharing
+
+
 ## Automatic Speed Adjustment
 # Adjustment.py
 
