@@ -14,6 +14,7 @@ The primary objective of this project is to develop a personalized screen reader
 ## Implementation:
 # Logger.py
 The Logger.py file is responsible for logging the screen reader data and print that in the console.
+![Picture 1](https://github.com/BhuvaneshMarineni/Cs795/assets/122952070/926245cd-b013-4300-8b9e-03b32683d80a)
 
 Steps for using Logger.py:
 
