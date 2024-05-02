@@ -64,6 +64,12 @@ This column identifies the user who is interacting with the content, which can b
 
 This column contains a brief snippet or description of the content being read or interacted with. This could provide context or highlights of the content, summarizing its essence or purpose.
 
+# Model Training
+
+The Model training and content categorization information can be found here.
+
+https://colab.research.google.com/drive/1NjcK1Izxdbxqluy6-Q49sqhS9BvTYn4S?usp=sharing
+
 ## Automatic Speed Adjustment
 # Adjustment.py
 
