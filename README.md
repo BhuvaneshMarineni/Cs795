@@ -10,3 +10,5 @@ CS795
    
 ## Project Statement:
 The primary objective of this project is to develop a personalized screen reader speed adjustment system that can adapt to individual user preferences and provide insights into their reading behavior and log this data for continuous improvement. The primary objective of this project is to develop a personalized screen reader speed adjustment system tailored to individual user preferences. This system aims to enhance the reading experience for users with visual impairments by dynamically adapting the reading speed based on user interactions and collecting data on reading behavior.
+## Architecture:
+![image](https://github.com/BhuvaneshMarineni/Cs795/assets/122952070/54773dab-bb75-4fa1-a4b1-44bd642227fe)
