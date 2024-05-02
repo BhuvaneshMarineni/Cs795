@@ -20,11 +20,23 @@ Steps for using Logger.py:
 
 Step 1: Download Logger.py from GitHub, Go to Hidden icons in the taskbar and right click on the NVDA symbol. Select preferences → settings.
 
+![image](https://github.com/BhuvaneshMarineni/Cs795/assets/122952070/b9af12d0-eb7b-407e-b517-e24d980d906e)
+
+
 Step 2:  Now select Advanced, Click on checkbox “I understand that changing these settings may cause NVDA to function incorrectly” and click on checkbox “Enable loading custom code from Developer Scratchpad” and select open developer scratchpad directory.
+
+![image](https://github.com/BhuvaneshMarineni/Cs795/assets/122952070/22242fd7-466a-49de-a315-30df50b49875)
+
 
 Step 3: Upload the logger file in global plugins.
 
+![image](https://github.com/BhuvaneshMarineni/Cs795/assets/122952070/0677e3ef-0a52-4ab5-83b2-cee7a92d5a32)
+
+
 Step 4 : After uploading select tools → Reload plugins.
+
+![image](https://github.com/BhuvaneshMarineni/Cs795/assets/122952070/2be23fab-ff83-450b-b218-297ff6b86984)
+
 
 Step 5 : To view the logs, select tools → view log
 
