@@ -71,7 +71,8 @@ The Model training and content categorization information can be found here.
 https://colab.research.google.com/drive/1NjcK1Izxdbxqluy6-Q49sqhS9BvTYn4S?usp=sharing
 
 ## Automatic Speed Adjustment
-# Adjustment.py
+
+*Adjustment.py*
 
 Step 1: Download Adjustment.py from GitHub, Go to Hidden icons in the taskbar and right click on the NVDA symbol. Select preferences → settings.
 
